@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bcfnj8b0qsln2"
+
+[deps]
+
+files=["res://ExportedCustomObjects.25.translation", "res://ExportedCustomObjects.Software Engineer.translation"]
+
+source_file="res://ExportedCustomObjects.csv"
+dest_files=["res://ExportedCustomObjects.25.translation", "res://ExportedCustomObjects.Software Engineer.translation"]
+
+[params]
+
+compress=true
+delimiter=0
